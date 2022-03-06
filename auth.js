@@ -1,6 +1,6 @@
 'use strict';
 
-const APP_PATH = `/auth0login`;
+const APP_PATH = `https://wzetto.github.io/wz369.github.io/omoi/omoi`;
 let auth0 = null;
 const fetchAuthConfig = () => fetch("auth0_config.json");
 
